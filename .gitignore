@@ -1,0 +1,8 @@
+node_modules
+*.pyc
+staticfiles
+.env
+db.sqlite3
+.vscode
+.DS_Store
+lead_manager/.DS_Store
