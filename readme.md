@@ -1,7 +1,5 @@
 # lead-manager-django-react
 
-
-
 This is an in depth tutorial application build from Brad Traversy's Youtube series [Fullstack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60). 
 
 ### Why I Did This
@@ -15,6 +13,8 @@ How to allow the backend of the application in Django to communicate with a non 
 How to configure Webpack for monitoring React component builds in development. 
 
 Reinforcement of Redux knowledge for the front end state management. 
+
+And evidently, through much bleary eyed command-lining.... how to deploy a subtree of a git repository to Heroku. 
 
 ### Installation Instructions
 
