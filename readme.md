@@ -43,7 +43,7 @@ Installation requires Python 3.8 and Django 3 to be installed on your local mach
    DEBUG=True
    ```
 
-   (Hint: You can auto-generate a unique secret key at [https://djcrety.ir](https:/djcrety.ir).)
+   (Hint: You can auto-generate a unique secret key at [https://djecrety.ir/](https://djecrety.ir/))
 
 5. Install NPM dependencies for Webpack to compile the React components:
 
